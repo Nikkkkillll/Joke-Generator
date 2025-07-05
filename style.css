@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', sans-serif;
-    background:  #764ba2;
+    background:  #212134 ;
     color: white;
     display: flex;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-    background: rgba(0, 0, 0, 0.3);
+    background: #2c2c54;
     padding: 40px 40px;
     border-radius: 15px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
